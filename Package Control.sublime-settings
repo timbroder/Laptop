@@ -1,0 +1,29 @@
+{
+  "auto_upgrade": true,
+	"debug": true,
+	"install_missing": true,
+	"installed_packages":
+	[
+		"Django Click",
+		"JsFormat",
+		"Licence Snippets",
+		"MagentoIntel",
+		"Markboard",
+		"Markdown Preview",
+		"Origami",
+		"Package Control",
+		"Python Imports Sorter",
+		"PythonTidy",
+		"Restart",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SyncedSideBar",
+		"Terminal",
+		"TidyHTML5",
+		"WordHighlight"
+	],
+	"repositories":
+	[
+		"https://sublime.wbond.net/testing/packages.json"
+	]
+}
