@@ -4,6 +4,7 @@
 	"install_missing": true,
 	"installed_packages":
 	[
+		"DetectSyntax",
 		"Django Click",
 		"JsFormat",
 		"Licence Snippets",
