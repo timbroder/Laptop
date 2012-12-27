@@ -1,6 +1,7 @@
 {
-  "ignored_packages":
+	"ignored_packages":
 	[
 	],
-	"spell_check": true
+	"spell_check": true,
+	"theme": "Soda Dark.sublime-theme"
 }
