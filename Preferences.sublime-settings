@@ -8,5 +8,6 @@
 	"highlight_modified_tabs": true,
     	"translate_tabs_to_spaces": true,
     	"trim_trailing_white_space_on_save": true,
-	"theme": "Soda Dark.sublime-theme"
+	"theme": "Soda Dark.sublime-theme",
+	"word_separators": "./\\()\"'-:,.;<>~!@#%^&*|+=[]{}`~?"
 }
